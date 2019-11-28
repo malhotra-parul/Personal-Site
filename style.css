@@ -1,0 +1,35 @@
+body{
+    background-color: #e0ebe8;
+    color: #1F6650; 
+    margin:50px;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #ffafb0;
+    border-width: 5px;
+    width: 10%;
+}
+.side-nav{
+    float:right;
+    right:0;
+    border:100px #1F6650;
+    padding-left: 5px;
+    padding-right:5px;
+    width: 30%;
+    height: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+        }
+
+.main{
+  position: absolute;
+  width: 100%;
+  margin: auto;
+  min-height: 500px;
+  max-width:1000px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  float:left;
+}
+
